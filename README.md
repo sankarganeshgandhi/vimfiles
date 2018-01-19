@@ -1,1 +1,1 @@
-# vimfiles
+# repository for vim editor related files
